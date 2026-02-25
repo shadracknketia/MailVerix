@@ -6,7 +6,7 @@
 
 **MailVerix** is a professional-grade Windows desktop application designed for high-volume email list cleaning. It combines speed with accuracy using a dual-pipeline architecture.
 
-[🚀 Download Latest Installer](https://github.com/YOUR_USERNAME/MailVerix/releases) | [🌐 Official Website](https://smartivatepro.com)
+[🚀 Download Latest Installer](https://github.com/shadracknketia/MailVerix/releases) | [🌐 Official Website](https://smartivatepro.com)
 
 ---
 
@@ -35,7 +35,7 @@
 ## 🚀 Getting Started
 
 ### Installation
-1. Download the `MailVerix_Setup.exe` from the [Releases](https://github.com/YOUR_USERNAME/MailVerix/releases) section.
+1. Download the `MailVerix_Setup.exe` from the [Releases](https://github.com/shadracknketia/MailVerix/releases) section.
 2. Run the installer. Since the app is currently independent, click **"More Info"** -> **"Run anyway"** on the Windows SmartScreen.
 3. Activate your license or continue with the **Free Trial** (50 emails/session).
 
